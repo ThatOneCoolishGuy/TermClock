@@ -1,0 +1,9 @@
+Website for the license: https://badass-license.tiiny.site/
+
+BADASS LICENSE 1.0
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit others to do so — because life’s too short for permission slips.
+The Software is provided "as-is", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. In other words, if this breaks your computer, burns your toast, or summons angry squirrels, that’s on you.
+By using the Software, you agree to keep it badass, respect the freedom it gives, and never blame the author for any chaos unleashed.
+
+Stay awesome.
